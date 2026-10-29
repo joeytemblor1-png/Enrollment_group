@@ -1,0 +1,177 @@
+Type,Level of Education,School Year,Enrollment,Enrollment_original,Imputation_Method
+1.0,1.0,2000.0,33981.0,33981.0,Original
+1.0,1.0,2001.0,388406.0,388406.0,Original
+1.0,1.0,2002.0,409273.0,409273.0,Original
+1.0,1.0,2003.0,428976.0,428976.0,Original
+1.0,1.0,2004.0,448976.0,448976.0,Original
+1.0,1.0,2005.0,524075.0,524075.0,Original
+1.0,1.0,2006.0,559034.0,559034.0,Original
+1.0,1.0,2007.0,588818.0,588818.0,Original
+1.0,1.0,2008.0,744066.0,744066.0,Original
+1.0,1.0,2009.0,1049950.0,1049950.0,Original
+1.0,1.0,2010.0,1233313.0,1233313.0,Original
+1.0,2.0,2000.0,11821486.0,11821486.0,Original
+1.0,2.0,2001.0,11929065.0,11929065.0,Original
+1.0,2.0,2002.0,12048721.0,12048721.0,Original
+1.0,2.0,2003.0,12065686.0,12065686.0,Original
+1.0,2.0,2004.0,12088682.0,12088682.0,Original
+1.0,2.0,2005.0,11983554.0,11983554.0,Original
+1.0,2.0,2006.0,12083661.0,12083661.0,Original
+1.0,2.0,2007.0,12304207.0,12304207.0,Original
+1.0,2.0,2008.0,12562272.0,12562272.0,Original
+1.0,2.0,2009.0,12788197.0,12788197.0,Original
+1.0,2.0,2010.0,12005459.0,12005459.0,Original
+1.0,3.0,2000.0,4086648.0,4086648.0,Original
+1.0,3.0,2001.0,4449180.0,4449180.0,Original
+1.0,3.0,2002.0,4791069.0,4791069.0,Original
+1.0,3.0,2003.0,5027847.0,5027847.0,Original
+1.0,3.0,2004.0,5042616.0,5042616.0,Original
+1.0,3.0,2005.0,4978435.0,4978435.0,Original
+1.0,3.0,2006.0,5026823.0,5026823.0,Original
+1.0,3.0,2007.0,5126459.0,5126459.0,Original
+1.0,3.0,2008.0,5378756.0,5378756.0,Original
+1.0,3.0,2009.0,5415498.0,5415498.0,Original
+1.0,3.0,2010.0,5530370.0,5530370.0,Original
+1.0,4.0,2000.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+1.0,4.0,2001.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+1.0,4.0,2002.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+1.0,4.0,2003.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+1.0,4.0,2004.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+1.0,4.0,2005.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+1.0,4.0,2006.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+1.0,4.0,2007.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+1.0,4.0,2008.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+1.0,4.0,2009.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+1.0,4.0,2010.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+2.0,1.0,2000.0,308692.0,308692.0,Original
+2.0,1.0,2001.0,321605.0,321605.0,Original
+2.0,1.0,2002.0,342384.0,342384.0,Original
+2.0,1.0,2003.0,349574.0,349574.0,Original
+2.0,1.0,2004.0,385805.0,385805.0,Original
+2.0,1.0,2005.0,387824.0,387824.0,Original
+2.0,1.0,2006.0,400190.0,400190.0,Original
+2.0,1.0,2007.0,410778.0,410778.0,Original
+2.0,1.0,2008.0,42905.0,42905.0,Original
+2.0,1.0,2009.0,420444.0,420444.0,Original
+2.0,1.0,2010.0,426059.0,426059.0,Original
+2.0,2.0,2000.0,22661.0,22661.0,Original
+2.0,2.0,2001.0,933439.0,933439.0,Original
+2.0,2.0,2002.0,940135.0,940135.0,Original
+2.0,2.0,2003.0,957851.0,957851.0,Original
+2.0,2.0,2004.0,995658.0,995658.0,Original
+2.0,2.0,2005.0,1015961.0,1015961.0,Original
+2.0,2.0,2006.0,1048554.0,1048554.0,Original
+2.0,2.0,2007.0,1092781.0,1092781.0,Original
+2.0,2.0,2008.0,1112137.0,1112137.0,Original
+2.0,2.0,2009.0,1134222.0,1134222.0,Original
+2.0,2.0,2010.0,1146921.0,1146921.0,Original
+2.0,3.0,2000.0,1245682.0,1245682.0,Original
+2.0,3.0,2001.0,1281193.0,1281193.0,Original
+2.0,3.0,2002.0,1271890.0,1271890.0,Original
+2.0,3.0,2003.0,1269896.0,1269896.0,Original
+2.0,3.0,2004.0,1314559.0,1314559.0,Original
+2.0,3.0,2005.0,1285035.0,1285035.0,Original
+2.0,3.0,2006.0,1290792.0,1290792.0,Original
+2.0,3.0,2007.0,1332846.0,1332846.0,Original
+2.0,3.0,2008.0,1342296.0,1342296.0,Original
+2.0,3.0,2009.0,1340456.0,1340456.0,Original
+2.0,3.0,2010.0,1374710.0,1374710.0,Original
+2.0,4.0,2000.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+2.0,4.0,2001.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+2.0,4.0,2002.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+2.0,4.0,2003.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+2.0,4.0,2004.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+2.0,4.0,2005.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+2.0,4.0,2006.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+2.0,4.0,2007.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+2.0,4.0,2008.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+2.0,4.0,2009.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+2.0,4.0,2010.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+3.0,1.0,2000.0,2860.6,3656836.59,Group mean: Type + Level of Education
+3.0,1.0,2001.0,2860.6,3656836.59,Group mean: Type + Level of Education
+3.0,1.0,2002.0,2860.6,3656836.59,Group mean: Type + Level of Education
+3.0,1.0,2003.0,2860.6,3656836.59,Group mean: Type + Level of Education
+3.0,1.0,2004.0,2860.6,3656836.59,Group mean: Type + Level of Education
+3.0,1.0,2005.0,2860.6,3656836.59,Group mean: Type + Level of Education
+3.0,1.0,2006.0,2173.0,2173.0,Original
+3.0,1.0,2007.0,2627.0,2627.0,Original
+3.0,1.0,2008.0,2377.0,2377.0,Original
+3.0,1.0,2009.0,4250.0,4250.0,Original
+3.0,1.0,2010.0,2876.0,2876.0,Original
+3.0,2.0,2000.0,11734.2,3656836.59,Group mean: Type + Level of Education
+3.0,2.0,2001.0,16096.0,16096.0,Original
+3.0,2.0,2002.0,7442.0,7442.0,Original
+3.0,2.0,2003.0,9327.0,9327.0,Original
+3.0,2.0,2004.0,12379.0,12379.0,Original
+3.0,2.0,2005.0,7132.0,7132.0,Original
+3.0,2.0,2006.0,12995.0,12995.0,Original
+3.0,2.0,2007.0,14298.0,14298.0,Original
+3.0,2.0,2008.0,12234.0,12234.0,Original
+3.0,2.0,2009.0,11753.0,11753.0,Original
+3.0,2.0,2010.0,13686.0,13686.0,Original
+3.0,3.0,2000.0,46812.8,3656836.59,Group mean: Type + Level of Education
+3.0,3.0,2001.0,70635.0,70635.0,Original
+3.0,3.0,2002.0,33720.0,33720.0,Original
+3.0,3.0,2003.0,36131.0,36131.0,Original
+3.0,3.0,2004.0,57445.0,57445.0,Original
+3.0,3.0,2005.0,35142.0,35142.0,Original
+3.0,3.0,2006.0,45387.0,45387.0,Original
+3.0,3.0,2007.0,46871.0,46871.0,Original
+3.0,3.0,2008.0,42806.0,42806.0,Original
+3.0,3.0,2009.0,50125.0,50125.0,Original
+3.0,3.0,2010.0,49866.0,49866.0,Original
+3.0,4.0,2000.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+3.0,4.0,2001.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+3.0,4.0,2002.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+3.0,4.0,2003.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+3.0,4.0,2004.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+3.0,4.0,2005.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+3.0,4.0,2006.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+3.0,4.0,2007.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+3.0,4.0,2008.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+3.0,4.0,2009.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+3.0,4.0,2010.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+4.0,1.0,2000.0,115177.86666666665,3656836.59,Fallback mean: Level of Education + School Year
+4.0,1.0,2001.0,237623.86666666667,3656836.59,Fallback mean: Level of Education + School Year
+4.0,1.0,2002.0,251505.86666666667,3656836.59,Fallback mean: Level of Education + School Year
+4.0,1.0,2003.0,260470.19999999998,3656836.59,Fallback mean: Level of Education + School Year
+4.0,1.0,2004.0,279213.86666666664,3656836.59,Fallback mean: Level of Education + School Year
+4.0,1.0,2005.0,304919.86666666664,3656836.59,Fallback mean: Level of Education + School Year
+4.0,1.0,2006.0,320465.6666666667,3656836.59,Fallback mean: Level of Education + School Year
+4.0,1.0,2007.0,334074.3333333333,3656836.59,Fallback mean: Level of Education + School Year
+4.0,1.0,2008.0,263116.0,3656836.59,Fallback mean: Level of Education + School Year
+4.0,1.0,2009.0,491548.0,3656836.59,Fallback mean: Level of Education + School Year
+4.0,1.0,2010.0,554082.6666666666,3656836.59,Fallback mean: Level of Education + School Year
+4.0,2.0,2000.0,3951960.4,3656836.59,Fallback mean: Level of Education + School Year
+4.0,2.0,2001.0,4292866.666666667,3656836.59,Fallback mean: Level of Education + School Year
+4.0,2.0,2002.0,4332099.333333333,3656836.59,Fallback mean: Level of Education + School Year
+4.0,2.0,2003.0,4344288.0,3656836.59,Fallback mean: Level of Education + School Year
+4.0,2.0,2004.0,4365573.0,3656836.59,Fallback mean: Level of Education + School Year
+4.0,2.0,2005.0,4335549.0,3656836.59,Fallback mean: Level of Education + School Year
+4.0,2.0,2006.0,4381736.666666667,3656836.59,Fallback mean: Level of Education + School Year
+4.0,2.0,2007.0,4470428.666666667,3656836.59,Fallback mean: Level of Education + School Year
+4.0,2.0,2008.0,4562214.333333333,3656836.59,Fallback mean: Level of Education + School Year
+4.0,2.0,2009.0,4644724.0,3656836.59,Fallback mean: Level of Education + School Year
+4.0,2.0,2010.0,4388688.666666667,3656836.59,Fallback mean: Level of Education + School Year
+4.0,3.0,2000.0,1793047.5999999999,3656836.59,Fallback mean: Level of Education + School Year
+4.0,3.0,2001.0,1933669.3333333333,3656836.59,Fallback mean: Level of Education + School Year
+4.0,3.0,2002.0,2032226.3333333333,3656836.59,Fallback mean: Level of Education + School Year
+4.0,3.0,2003.0,2111291.3333333335,3656836.59,Fallback mean: Level of Education + School Year
+4.0,3.0,2004.0,2138206.6666666665,3656836.59,Fallback mean: Level of Education + School Year
+4.0,3.0,2005.0,2099537.3333333335,3656836.59,Fallback mean: Level of Education + School Year
+4.0,3.0,2006.0,2121000.6666666665,3656836.59,Fallback mean: Level of Education + School Year
+4.0,3.0,2007.0,2168725.3333333335,3656836.59,Fallback mean: Level of Education + School Year
+4.0,3.0,2008.0,2254619.3333333335,3656836.59,Fallback mean: Level of Education + School Year
+4.0,3.0,2009.0,2268693.0,3656836.59,Fallback mean: Level of Education + School Year
+4.0,3.0,2010.0,2318315.3333333335,3656836.59,Fallback mean: Level of Education + School Year
+4.0,4.0,2000.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+4.0,4.0,2001.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+4.0,4.0,2002.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+4.0,4.0,2003.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+4.0,4.0,2004.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+4.0,4.0,2005.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+4.0,4.0,2006.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+4.0,4.0,2007.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+4.0,4.0,2008.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+4.0,4.0,2009.0,,3656836.59,Missing placeholder (mean value) - pending imputation
+4.0,4.0,2010.0,,3656836.59,Missing placeholder (mean value) - pending imputation
